@@ -19,4 +19,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saquibshakeel&layout=compact&langs_count=8&theme=dark"/>
    </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saquibshakeel&" alt="saquibshakeel" /></p>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/mdsaquibshakeel?theme=dark" alt="mdsaquibshakeel" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saquibshakeel&theme=dark" alt="saquibshakeel" />
+  </p>
