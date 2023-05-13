@@ -30,6 +30,8 @@
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
+[![An image of @saquibshakeel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saquibshakeel)](https://holopin.io/@saquibshakeel)
+
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/mdsaquibshakeel?theme=dark" alt="mdsaquibshakeel" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saquibshakeel&theme=dark" alt="saquibshakeel" />
