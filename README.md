@@ -34,5 +34,4 @@
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/mdsaquibshakeel?theme=dark" alt="mdsaquibshakeel" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saquibshakeel&theme=dark" alt="saquibshakeel" />
   </p>
