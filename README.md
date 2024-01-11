@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Saquib Shakeel</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **saquib.shakeel.1866@gmail.com**
 
